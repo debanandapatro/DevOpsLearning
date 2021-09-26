@@ -1,3 +1,2 @@
 print("Hello World")
-:wq!
-
+print("Second Line")
